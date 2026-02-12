@@ -9,7 +9,7 @@ One thing to note is that with these new PCBs, you have to ever so slightly push
 
 ## Parts Needed
 - Two 2x4 sets of pin headers—at least one male and one female—with a pitch of 2.54mm
-  - You can order male headers [here](https://a.aliexpress.com/_mMtd0Sz) and female headers [here.](https://a.aliexpress.com/_m0O5a3J) **REMEMBER TO SELECT 2X4**
+  - You can order male headers [here](https://a.aliexpress.com/_mMtd0Sz) and female headers [here.](https://a.aliexpress.com/_mOnUzbT) **REMEMBER TO SELECT 2X4**
     - If these links die, just search up something like "2.54mm 2x4 pin headers" on aliexpress, both male and female sets
    
 **REMEMBER TO SET PCB THICKNESS TO 1.2MM WHEN ORDERING**
