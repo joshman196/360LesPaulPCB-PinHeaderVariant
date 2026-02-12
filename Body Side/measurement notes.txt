@@ -1,0 +1,15 @@
+~5.45mm from body to pogo pin base
+~20.10mm top to bottom
+~25.10mm side to side
+1.2mm thickness
+~14mm from back of pcb to top of pogo pin
+~9mm from back of pcb to base of pogo pin
+~7.65mm from base of pogo pin to front of pcb/ width of pogo pin plastic base
+~12.40mm from top of pogo pin to front of pcb
+~2.75mm big corners
+~1.35mm small inner corners
+~11.30mm from side edges of pcb to inner notch edges
+~4.25mm depth of notch
+~Pin numbers from pogo pins match pin header from red wire/square pad being #1
+~9.05mm height of pogo pin plastic base
+~20.50mm length of pogo pin plastic base
