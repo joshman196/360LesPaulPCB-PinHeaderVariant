@@ -1,7 +1,7 @@
 # Xbox 360 Les Paul Neck Connection PCBs with Pin Headers
-PCBs for the GH3 Les Pauls that uses pin headers instead of the pogo pins. Only tested for the Xbox 360 variant.
+PCBs for the Guitar Hero 3/Aerosmith Les Pauls that uses pin headers instead of the original's pogo pins. Only tested for the Xbox 360 variant.
 
-This is meant to hopefully be more resilient and last longer compared to the flawed pogo pin design of the original. I have successfully been using these PCBs in my personal 360 Les Paul for nearly a year with no functional issues as of writing this (February 2026, PCBs were finished in March 2025). I just never published this publicly until now.
+This is meant to (hopefully) be more resilient and last longer compared to the flawed pogo pin design of the original. I have successfully been using these PCBs in my personal X360 Aerosmith Les Paul for nearly a year with no functional issues as of writing this (February 2026, PCBs were finished in March 2025). I just never published this publicly until now.
 
 It doesn't matter which side has the male or female ends of the pin headers, but if it matters to you what I did, I put the female end on the neck side and the male end on the body side.
 
